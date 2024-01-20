@@ -1,0 +1,5 @@
+.env*
+.lsp
+.clj-kondo
+.calva
+**/.DS_Store
